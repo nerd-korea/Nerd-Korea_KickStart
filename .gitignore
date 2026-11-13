@@ -1,0 +1,9 @@
+# Debug-Ordner (wird von Factorio erzeugt)
+__debug__/
+
+# Zip-Dateien (werden nur auf factorio.com hochgeladen, nicht ins Repo)
+*.zip
+
+# Temporäre Dateien
+*.tmp
+*.log
